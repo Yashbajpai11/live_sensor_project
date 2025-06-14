@@ -1,3 +1,14 @@
-pymongo==4.2.0
+pymongo
+pandas
+numpy
+pymongo[srv]
+scikit-learn
+python-dotenv
+certifi
+PyYAML
+dill
+setuptools
+scipy
+imblearn
 
 -e .
