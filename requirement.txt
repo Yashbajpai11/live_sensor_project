@@ -11,5 +11,9 @@ setuptools
 scipy
 imblearn
 xgboost
+fastapi
+uvicorn
+starlette
+
 
 -e .
